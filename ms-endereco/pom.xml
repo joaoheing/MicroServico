@@ -8,14 +8,13 @@
 		<version>2.7.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>aula</groupId>
-	<artifactId>md-professor</artifactId>
+	<groupId>br.localizacao</groupId>
+	<artifactId>ms-endereco</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>md-professor</name>
-	<description>md-professor</description>
+	<name>ms-endereco</name>
+	<description>ms-endereco</description>
 	<properties>
 		<java.version>17</java.version>
-		<spring-cloud.version>2021.0.4</spring-cloud.version>
 	</properties>
 	<dependencies>
 		<dependency>

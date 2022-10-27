@@ -8,14 +8,13 @@
         <version>2.7.5</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>aula</groupId>
-    <artifactId>cf-server-gateway</artifactId>
+    <groupId>service</groupId>
+    <artifactId>service-gateway</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>cf-server-gateway</name>
-    <description>cf-server-gateway</description>
+    <name>service-gateway</name>
+    <description>service-gateway</description>
     <properties>
         <java.version>17</java.version>
-        <spring-cloud.version>2021.0.4</spring-cloud.version>
     </properties>
     <dependencies>
         <dependency>
